@@ -1,0 +1,204 @@
+@media (max-width:768px) {
+  .main-wrapper {
+    margin-left: auto;
+    margin-right: auto;
+    width: 375px
+  }
+  .row0 {
+    display: flex;
+    margin-left: 29px;
+    margin-top: 44px;
+    width: 291px;
+    height: 96px
+  }
+  .style0,
+  .style1 {
+    color: rgba(255,255,255,.85)
+  }
+  .style1 {
+    background-color: #42aed2;
+    border-left: 0 solid #000;
+    border-right: 0 solid #000;
+    border-top: 0 solid #000;
+    border-bottom: 0 solid #000;
+    box-shadow: 0 1px 5px 1px rgba(0,0,0,.2),0 2px 2px 1px rgba(0,0,0,.14),0 3px 1px -2px rgba(0,0,0,.12);
+    display: flex;
+    margin-left: 0;
+    width: 153px;
+    align-items: center;
+    align-self: center;
+    flex-direction: column;
+    justify-content: center;
+    height: 91px
+  }
+  .style0 {
+    height: 20px
+  }
+  .row0column1 {
+    display: flex;
+    margin-left: 41px;
+    margin-top: 15px;
+    width: 96px;
+    height: 96px;
+    flex-direction: column
+  }
+  .style2 {
+    width: 100%;
+    align-self: stretch;
+    margin-left: 20px;
+    height: 16px
+  }
+}
+@media (min-width:768px) and (max-width:920px) {
+  .main-wrapper {
+    margin-left: auto;
+    margin-right: auto;
+    width: 768px
+  }
+  .row0 {
+    display: flex;
+    margin-left: 59px;
+    margin-top: 90px;
+    width: 596px;
+    height: 197px
+  }
+  .style0,
+  .style1 {
+    color: rgba(255,255,255,.85)
+  }
+  .style1 {
+    background-color: #42aed2;
+    border-left: 0 solid #000;
+    border-right: 0 solid #000;
+    border-top: 0 solid #000;
+    border-bottom: 0 solid #000;
+    box-shadow: 0 1px 5px 1px rgba(0,0,0,.2),0 2px 2px 1px rgba(0,0,0,.14),0 3px 1px -2px rgba(0,0,0,.12);
+    display: flex;
+    margin-left: 0;
+    width: 313px;
+    align-items: center;
+    align-self: center;
+    flex-direction: column;
+    justify-content: center;
+    height: 186px
+  }
+  .style0 {
+    height: 41px
+  }
+  .row0column1 {
+    display: flex;
+    margin-left: 84px;
+    margin-top: 31px;
+    width: 197px;
+    height: 197px;
+    flex-direction: column
+  }
+  .style2 {
+    width: 100%;
+    align-self: stretch;
+    margin-left: 41px;
+    height: 33px
+  }
+}
+@media (min-width:920px) and (max-width:1200px) {
+  .main-wrapper {
+    margin-left: auto;
+    margin-right: auto;
+    width: 920px
+  }
+  .row0 {
+    display: flex;
+    margin-left: 71px;
+    margin-top: 108px;
+    width: 714px;
+    height: 236px
+  }
+  .style0,
+  .style1 {
+    color: rgba(255,255,255,.85)
+  }
+  .style1 {
+    background-color: #42aed2;
+    border-left: 0 solid #000;
+    border-right: 0 solid #000;
+    border-top: 0 solid #000;
+    border-bottom: 0 solid #000;
+    box-shadow: 0 1px 5px 1px rgba(0,0,0,.2),0 2px 2px 1px rgba(0,0,0,.14),0 3px 1px -2px rgba(0,0,0,.12);
+    display: flex;
+    margin-left: 0;
+    width: 375px;
+    align-items: center;
+    align-self: center;
+    flex-direction: column;
+    justify-content: center;
+    height: 223px
+  }
+  .style0 {
+    height: 49px
+  }
+  .row0column1 {
+    display: flex;
+    margin-left: 101px;
+    margin-top: 37px;
+    width: 236px;
+    height: 236px;
+    flex-direction: column
+  }
+  .style2 {
+    width: 100%;
+    align-self: stretch;
+    margin-left: 49px;
+    height: 39px
+  }
+}
+@media (min-width:1200px) {
+  .main-wrapper {
+    margin-left: auto;
+    margin-right: auto;
+    width: 1200px
+  }
+  .row0 {
+    display: flex;
+    margin-left: 93px;
+    margin-top: 141px;
+    width: 931px;
+    height: 307px
+  }
+  .style0,
+  .style1 {
+    color: rgba(255,255,255,.85)
+  }
+  .style1 {
+    background-color: #42aed2;
+    border-left: 0 solid #000;
+    border-right: 0 solid #000;
+    border-top: 0 solid #000;
+    border-bottom: 0 solid #000;
+    box-shadow: 0 1px 5px 1px rgba(0,0,0,.2),0 2px 2px 1px rgba(0,0,0,.14),0 3px 1px -2px rgba(0,0,0,.12);
+    display: flex;
+    margin-left: 0;
+    width: 490px;
+    align-items: center;
+    align-self: center;
+    flex-direction: column;
+    justify-content: center;
+    height: 291px
+  }
+  .style0 {
+    height: 64px
+  }
+  .row0column1 {
+    display: flex;
+    margin-left: 131px;
+    margin-top: 48px;
+    width: 307px;
+    height: 307px;
+    flex-direction: column
+  }
+  .style2 {
+    width: 100%;
+    align-self: stretch;
+    margin-left: 64px;
+    height: 51px
+  }
+}
